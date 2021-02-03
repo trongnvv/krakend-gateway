@@ -1,1 +1,0 @@
-# krakend-gateway
